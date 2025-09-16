@@ -1,0 +1,21 @@
+merchant_id,name,mcc
+M-Grocery,Fresh Grocery,5411
+M-Coffee,Daily Coffee,5814
+M-Online,Online Mart,5311
+M-Electro,Electro World,5732
+M-Pharmacy,City Pharmacy,5912
+M-RideShare,GoRide,4121
+M-Streaming,StreamPlus,4899
+M-Books,Book Haven,5942
+M-Gas,Fuel Station,5541
+M-FastFood,Quick Bites,5814
+M-Home,Home Store,5200
+M-Hotel,StayEasy Hotel,7011
+M-Pizza,Slice Pizza,5812
+M-Sports,Sport Planet,5655
+M-Fashion,Fashion Hub,5651
+M-Pet,Pet Care,5995
+M-Tools,Tool Shed,5251
+M-Cinema,Cinema City,7832
+M-Garden,Garden Green,5261
+M-Toys,Toy Box,5945
